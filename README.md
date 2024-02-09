@@ -53,6 +53,9 @@
 
 ### Outside Help
 #### For this assignment, I used outside sources such as Stack Overflow, ChatGPT, Classmates.
+##### It is very important to make sure you do not push your api keys!!!
+    Adding config.py file.
+    api_keys.py
 ##### It is importnat to note that the city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook. The last time the code was run ws on 2/08/2024. 
 #### From ChatGPT: Add datetime dependency to create date format for graph title (Y-M-D)
         date = datetime.now().strftime("%Y-%m-%d")
