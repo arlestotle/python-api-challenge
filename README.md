@@ -33,7 +33,7 @@
 ##### Latitude vs. Wind Speed of Northern Hemisphere
 ###### Based off of the r-value (-0.049) there appears to be no corrlation between the two variables. As that latitude increases (gets further from the equator) the windspeeds appear to slightly decrease.
 
-##### Latitude vs. Wind Speed of Northern Hemisphere
+##### Latitude vs. Wind Speed of Southern Hemisphere
 ###### Based off of the r-value (-0.077) there appears to be no correlation or a very very very weak negative correlation between the two varaibles. As that latitude increases (gets closer to the equator) the windspeeds appear to slightly decrease.
 
 
