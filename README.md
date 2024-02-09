@@ -37,7 +37,7 @@
 ###### Based off of the r-value (-0.077) there appears to be no correlation or a very very very weak negative correlation between the two varaibles. As that latitude increases (gets closer to the equator) the windspeeds appear to slightly decrease.
 
 
-## Part 1: VacationPy
+## Part 2: VacationPy
 #### In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 ##### 
 1. We created a map that displays a pint for every city in the dataframe taken from part 1, and the size of the point should be the humbidity of each city. 
